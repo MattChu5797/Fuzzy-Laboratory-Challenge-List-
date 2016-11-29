@@ -1,0 +1,321 @@
+body{
+  background-color: #f58c5e;
+	font-family: 'Arial', sans-serif, 'uppercase';
+
+	color: #000000;
+}
+
+#container{
+	width:800px;
+	margin:50px auto;
+	padding: 20px;
+	width:50%;
+}
+#container h2{
+  position: fixed;
+  top: 500px;
+  left:100px;
+  text-transform: uppercase;
+  font-family: Arial;
+	color:#ffffff;
+}
+
+#challengeContainer{
+  position: fixed;
+	width:50%;
+	background: #f58c5e ;
+	padding:px;
+	margin:5px auto;
+  top: 538px;
+  height:0px;
+  left:70px;
+  font-family: Arial;
+  font-weight: bold;
+  text-align: center;
+  color: #000000;
+  text-transform: uppercase;
+}
+#buttonContainer{
+	width: 100%;
+	left: 100px;
+}
+#challengeButton{
+  position: fixed;
+	width:200px;
+  left:100px;
+  top: 600px;
+	margin-top: 10px;
+	border:3px solid #000000 ;
+	color:#000000;
+  text-align: center;
+	font-family: Arial;
+  text-transform: uppercase;
+	font-weight:bold;
+	padding:5px;
+	text-decoration: none;
+
+}
+
+#challengeButton:hover{
+	cursor:pointer;
+	background:#000000;
+	color: #ffffff;
+}
+#challengeButton:active{
+	cursor: pointer;
+}
+
+
+.fuzzylab {
+  font-family: Arial;
+  color: #ffffff;
+  text-transform: uppercase;
+  position: fixed;
+  top: 600px;
+  left: 1000px;
+}
+
+
+
+
+
+.backgroundtext {
+  font-family: Arial;
+  text-transform: uppercase;
+  position: fixed;
+  top:10px;
+  left:20px;
+}
+
+.backgroundtext1 {
+  font-family: Arial;
+  text-transform: uppercase;
+  position: fixed;
+  top: 40px;
+  left:20px;
+}
+
+.backgroundtext2 {
+  font-family: Arial;
+  text-transform: uppercase;
+  position: fixed;
+  top: 70px;
+  left:20px;
+}
+
+.backgroundtext3 {
+  font-family: Arial;
+  text-transform: uppercase;
+  position: fixed;
+  top: 100px;
+  left:20px;
+}
+
+.backgroundtext4 {
+  font-family: Arial;
+  text-transform: uppercase;
+  position: fixed;
+  top: 130px;
+  left:20px;
+}
+
+.backgroundtext5 {
+  font-family: Arial;
+  text-transform: uppercase;
+  position: fixed;
+  top: 160px;
+  left:20px;
+}
+
+.backgroundtext6 {
+  font-family: Arial;
+  text-transform: uppercase;
+  position: fixed;
+  top: 190px;
+  left:20px;
+}
+
+.backgroundtext7 {
+  font-family: Arial;
+  text-transform: uppercase;
+  position: fixed;
+  top: 220px;
+  left:20px;
+}
+
+.backgroundtext8 {
+  font-family: Arial;
+  text-transform: uppercase;
+  position: fixed;
+  top: 240px;
+  left:20px;
+}
+
+.backgroundtext9 {
+  font-family: Arial;
+  text-transform: uppercase;
+  position: fixed;
+  top: 280px;
+  left:30px;
+}
+
+.backgroundtext10 {
+  font-family: Arial;
+  text-transform: uppercase;
+  position: fixed;
+  top: 310px;
+  left:30px;
+}
+
+.backgroundtext11 {
+  font-family: Arial;
+  text-transform: uppercase;
+  position: fixed;
+  top: 340px;
+  left:30px;
+}
+
+.backgroundtext12 {
+  font-family: Arial;
+  text-transform: uppercase;
+  position: fixed;
+  top: 370px;
+  left:30px;
+}
+
+.backgroundtext13 {
+  font-family: Arial;
+  text-transform: uppercase;
+  position: fixed;
+  top: 400px;
+  left:30px;
+}
+
+.backgroundtext14 {
+  font-family: Arial;
+  text-transform: uppercase;
+  position: fixed;
+  top: 430px;
+  left:30px;
+}
+
+.backgroundtext15 {
+  font-family: Arial;
+  text-transform: uppercase;
+  position: fixed;
+  top: 440px;
+  left:420px;
+}
+
+.backgroundtext16 {
+  font-family: Arial;
+  text-transform: uppercase;
+  position: fixed;
+  top: 480px;
+  left:420px;
+}
+
+.backgroundtext17 {
+  font-family: Arial;
+  position: fixed;
+  top: 15px;
+  left:700px;
+}
+
+.backgroundtext18 {
+  font-family: Arial;
+  position: fixed;
+  top: 40px;
+  left:00px;
+}
+
+.backgroundtext19 {
+  font-family: Arial;
+  position: fixed;
+  top: 70px;
+  left:500px;
+}
+
+.backgroundtext20 {
+  font-family: Arial;
+  position: fixed;
+  top: 100px;
+  left:500px;
+}
+
+.backgroundtext21 {
+  font-family: Arial;
+  position: fixed;
+  top: 130px;
+  left:500px;
+}
+
+.backgroundtext22 {
+  font-family: Arial;
+  position: fixed;
+  top: 160px;
+  left:400px;
+}
+
+.backgroundtext23 {
+  font-family: Arial;
+  position: fixed;
+  top: 190px;
+  left:500px;
+}
+
+.backgroundtext24 {
+  font-family: Arial;
+  position: fixed;
+  top: 29px;
+  left:500px;
+}
+
+.backgroundtext25 {
+  font-family: Arial;
+  position: fixed;
+  top:200px;
+  left:700px;
+}
+
+.backgroundtext26 {
+  font-family: Arial;
+  position: fixed;
+  top: 250px;
+  left:400px;
+}
+
+.backgroundtext27 {
+  font-family: Arial;
+  position: fixed;
+  top: 280px;
+  left:420px;
+}
+
+.backgroundtext28 {
+  font-family: Arial;
+  position: fixed;
+  top: 310px;
+  left:420px;
+}
+
+.backgroundtext29 {
+  font-family: Arial;
+  position: fixed;
+  top: 340px;
+  left:420px;
+}
+
+.backgroundtext30 {
+  font-family: Arial;
+  position: fixed;
+  top: 370px;
+  left:420px;
+}
+
+.backgroundtext31 {
+  font-family: Arial;
+  position: fixed;
+  top: 410px;
+  left:340px;
+}
